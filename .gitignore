@@ -1,0 +1,5 @@
+bower-components/
+.idea/
+config/phantomjs
+test/coverage/
+test/junit/
