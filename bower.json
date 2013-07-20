@@ -1,5 +1,5 @@
 {
-    "name": "Javascript Templating",
+    "name": "template",
     "version": "0.0.1",
     "main": "src/template.js",
     "dependencies": {
