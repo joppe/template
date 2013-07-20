@@ -18,7 +18,7 @@ describe('a simple text template', function () {
         loadFixtures('test/fixtures/text.html');
 
         $template = $('#text');
-        template = Template.create($template);
+        template = Template.createFromElement($template);
         expect(template.render({
             text: 'foo'
         })).toEqual('<p>foo</p>');
