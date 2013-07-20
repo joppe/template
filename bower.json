@@ -1,9 +1,10 @@
 {
-	"name": "Javascript Templating",
-	"version": "0.0.1",
-	"dependencies": {
-		"jquery": "1.10.2",
+    "name": "Javascript Templating",
+    "version": "0.0.1",
+    "main": "src/template.js",
+    "dependencies": {
+        "jquery": "1.10.2",
         "jasmine-jquery": "1.5.2",
         "bootstrap-css": "2.3.2"
-	}
+    }
 }
